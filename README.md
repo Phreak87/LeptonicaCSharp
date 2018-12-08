@@ -1,5 +1,10 @@
 # LeptonicaSharp 1.77.0.2 (Oct. 2018) Wrapper
-Full featured wrapper for leptonica 1.77.0 (Sep.2018) Library
+Full featured wrapper for leptonica 1.77.0 (Sep.2018) Library.
+
+this is a clone of the cs_lib folder of the leptonicasharp library.
+this clone is created because the leptonicashatp is not listed as c#.
+for actual development releases and further contents use the
+original library instead.
 
 # Functions:
 
